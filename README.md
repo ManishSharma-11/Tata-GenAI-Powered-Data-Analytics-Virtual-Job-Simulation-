@@ -2,6 +2,9 @@
 by FORAGE
 <br><br>
 
+![tata](https://github.com/ManishSharma-11/Tata-GenAI-Powered-Data-Analytics-Virtual-Job-Simulation-/blob/main/tata.png)
+
+<br><br>
 
 ## Objective
 This project focused on designing a responsible, scalable, and autonomous AI-powered collections system for Geldium Finance. The goal was to move from predictive insights to real-time, adaptive decision-making — enabling personalized customer outreach while maintaining fairness, transparency, and regulatory compliance. The project simulated a real-world AI transformation workflow, progressing through data analysis, business reporting, ethical strategy, and executive presentation.
@@ -64,7 +67,7 @@ And following are the steps that i have performed one by one to complete this ta
 
 Below is the attached doc of this task
 <br>
-![summary report]()
+![summary report](https://github.com/ManishSharma-11/Tata-GenAI-Powered-Data-Analytics-Virtual-Job-Simulation-/blob/main/EDA_SummaryReport_Template.docx)
 
 <br>
 
@@ -90,7 +93,7 @@ To conceptualize a predictive modeling approach that forecasts which customers a
 
 Below is the attached doc of this task
 <br>
-![Model 2 plan]()
+![Model 2 plan](https://github.com/ManishSharma-11/Tata-GenAI-Powered-Data-Analytics-Virtual-Job-Simulation-/blob/main/Task%202_ModelPlan_Template.docx)
 
 ## Task 3. Stakeholder Report — Predictive Insights & Recommendation
 To translate predictive findings into a clear, stakeholder-ready report that informs Geldium’s collections strategy and guides responsible use of AI insights.
@@ -113,7 +116,7 @@ To translate predictive findings into a clear, stakeholder-ready report that inf
 
 Below is the attached doc of this task
 <br>
-![Geldium finance]()
+![Geldium finance](https://github.com/ManishSharma-11/Tata-GenAI-Powered-Data-Analytics-Virtual-Job-Simulation-/blob/main/Geldium%20Finance.docx)
 
 ## Task 4. Final Presentation Deck
 
@@ -148,7 +151,14 @@ Below is the attached doc of this task
 <br><br>
 Below is the presentation that i have prepared in this task
 <br>
-![presentation]()
+
+![presentation](https://github.com/ManishSharma-11/Tata-GenAI-Powered-Data-Analytics-Virtual-Job-Simulation-/blob/main/Presentation1.pptx)
 
 
-  
+  <br><br><br><br>
+
+
+# Achievement
+<br>
+
+![screenshot](https://github.com/ManishSharma-11/Tata-GenAI-Powered-Data-Analytics-Virtual-Job-Simulation-/blob/main/Screenshot%202025-09-10%20153608.png)
